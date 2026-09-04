@@ -20,4 +20,3 @@ Users can view the current canteen menu and place orders for their desired items
 - Object-Oriented Programming (Class, `__init__`, Instance Method)
 - Data Structures (Dictionary)
 - Control Structures (`while` loop, `for` loop, `if-else` conditions)
-
